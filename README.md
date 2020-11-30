@@ -1,2 +1,7 @@
 # ALPHA-Q-DATA-ANALYTICS-PROJECT
 A Team Project for predicting price of used cars on craiglist using various ML models .
+TEAM MEMBERS:
+SUMUKH R R    - PES2201800078
+K RAHUL REDDY - PES2201800267
+PRAMATH R RAO - PES2201800364
+N SAI CHARAN  - PES2201800281
